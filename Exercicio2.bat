@@ -30,3 +30,8 @@ md "Rondonia"
 md "Roraima"
 md "Tocantins"
 cd..
+cd "Sul"
+md "Parana"
+md "Santa Cantarina"
+md "Rio Grande do Sul"
+cd..
