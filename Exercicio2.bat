@@ -21,3 +21,12 @@ md "Piaui"
 md "Rio Grande do Norte"
 md "Sergipe"
 cd..
+cd "Norte"
+md "Acre"
+md "Amapa"
+md "Amazonas"
+md "Para"
+md "Rondonia"
+md "Roraima"
+md "Tocantins"
+cd..
